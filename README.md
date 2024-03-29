@@ -19,20 +19,23 @@ This is a simple video chat application built with WebSockets for signaling. It 
 To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
-<br>
-```git clone https://github.com/dvip1/simple-video-chat.git```
-<br>
-2. Install the dependencies:
-<br>
-`cd simple-video-chat/client`
-`npm i`
-<br>
-`cd ../server`
-`npm i` 
-<br>
-3. Start the development server:
-<br>
-`npm run dev` -same command for client & server
+```
+git clone https://github.com/dvip1/simple-video-chat.git
+```
+2. Install client dependencies:
+```
+cd simple-video-chat/client
+npm i 
+```
+3. Install server dependecies: 
+```
+cd simple-video-chat/server
+npm i
+``` 
+4. Start the development server:
+```
+npm run dev
+``` 
 
 ## Contributing
 
