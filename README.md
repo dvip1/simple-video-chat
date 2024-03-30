@@ -54,6 +54,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - dvipatwork@outlook.com
+Dvip Patel - dvipatwork@outlook.com
 
 Project Link: [https://github.com/dvip1/simple-video-chat](https://github.com/dvip1/simple-video-chat)
