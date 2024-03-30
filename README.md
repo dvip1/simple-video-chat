@@ -1,6 +1,9 @@
 # Simple Video Chat
 
-This is a simple video chat application built with WebSockets for signaling. It uses a modern stack including React, TypeScript, Node.js, and Tailwind CSS.
+This is a simple video chat application built with WebSockets for signaling. It uses a modern stack including React, TypeScript, Node.js, and Tailwind CSS. 
+
+## Functionality
+Two users can connect to the same room with different username to communicate with each other.  
 
 ## Features
 
